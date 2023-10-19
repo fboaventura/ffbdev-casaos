@@ -1,0 +1,12 @@
+[
+  {
+    "name": "FFBDev",
+    "font": "code-greater-than-or-equal",
+    "description": "Apps for FFBDev"
+  },
+  {
+    "name": "Utilities",
+    "font": "toolbox-outline",
+    "description": "Utilities"
+  }
+]
